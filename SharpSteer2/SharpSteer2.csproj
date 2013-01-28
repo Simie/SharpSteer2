@@ -36,7 +36,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FarseerPhysics">
-      <HintPath>..\..\cowgate\Code\Dependencies\lib\FarseerPhysics.dll</HintPath>
+      <HintPath>..\..\lib\FarseerPhysics.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <Private>False</Private>
